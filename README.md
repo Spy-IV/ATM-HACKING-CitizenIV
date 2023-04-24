@@ -1,20 +1,5 @@
 # decrypto
-ATM Hacking with Minigame for ESX Framework
-
-Preview: https://tj-s.online/content/GTAV/decrypto.mp4
-
-## Add items into Database
-
-```sql
-INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES 
-('hackcard', 'Hacking Card', '1', '0', '1'), 
-('decryptor', 'Decrypt-o-matic', '1', '0', '1');
-```
-
-## Add images to your inventory
-
-- hackcard.png
-- decryptomatic.png
+ATM Hacking with Minigame converted from fivem to CitizenIV
 
 ## The Minigame
 The minigame is based on Matermind
@@ -44,3 +29,5 @@ The minigame can be set to base 10 (digits 0 through 9) or base 16 (digits 0 thr
 ## Why does the minigame have such a long intro?
 
 I did this to balance Police response versus hacking sprees. You can always modify this in the script.js file (the variable is *message* and has some instructions in the preceeding comment).
+
+![orginal](https://forum.cfx.re/t/free-qbcore-esx-atm-hacking-with-new-minigame/4842430)
